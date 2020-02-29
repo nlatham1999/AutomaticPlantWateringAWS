@@ -10,7 +10,7 @@
 CERT="/home/pi/NickAWSKeys/1f3394fa8d-certificate.pem.crt"
 CA="/home/pi/NickAWSKeys/AmazonRootCA1.pem "
 PKEY="/home/pi/NickAWSKeys/1f3394fa8d-private.pem.key"
-ENDPOINT="a2c85go0yop1d5-ats.iot.us-east-1.amazonaws.com"
+ENDPOINT="a1v235w5dvh412-ats.iot.us-west-2.amazonaws.com"
 TOPIC="aws/things/SenseHat/shadow/update"
 
 python3 awsiot.py \
